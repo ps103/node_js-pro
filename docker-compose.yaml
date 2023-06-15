@@ -3,5 +3,5 @@ services:
   web:
     image: psharma10394/nodejs-app:latest
     ports:
-      - "8004:8004"
+      - "8005:8005"
   
