@@ -1,7 +1,7 @@
 version: "3.9"
 services:
   web:
-    image: psharma10394/nodejs-app:latest
+    image: 'psharma10394/nodejs-app:latest'
     ports:
-      - "8006:8006"
+      - "8000:8000"
   
